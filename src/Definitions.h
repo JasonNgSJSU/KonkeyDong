@@ -1,0 +1,28 @@
+#pragma once
+
+#define MSECONDS 2
+
+#define TILESIZE 32
+#define MAPWIDTH 30
+#define MAPHEIGHT 21
+#define SPEED 100
+#define JUMPSPEED 63
+#define MIDJUMPSPEED 80
+
+#define CAMERASPEED 80
+#define GRAVITY 80
+#define CLIMBSPEED 70
+#define CAMERAWIDTH 960
+#define CAMERAHEIGHT 672
+
+#define ROLLSPEED 170
+#define ROLLGRAVITY 120
+
+#define ENEMYSIZE 32
+
+/*2x */
+#define KONGHEIGHT 64 
+#define KONGWIDTH 82
+
+#define FRAMESPEED 0.1
+#define PLAYERBUFFER 4
